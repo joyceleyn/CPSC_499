@@ -9,3 +9,5 @@ put test in **bold**
 *bullet1
 
 *bullet2
+
+Add an edit from the browser though not recommended
