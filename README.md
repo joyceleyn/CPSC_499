@@ -7,5 +7,9 @@ This is a function to calculate the volume of stems based on the length and diam
 this function also comverts mm to cm
 
 
+usage
 
+```{r }
+stemvol(100,50,diam.units = "mm")
+```
 
