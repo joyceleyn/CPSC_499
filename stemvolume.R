@@ -2,11 +2,11 @@
 stemvol <- function(len, diam,
                     len.units = "cm", diam.units = "mm"){
   if(len.units == "mm"){
-    len <- len/10
+    len <- len/8    #Changed
   }
   if(diam.units == "mm"){
-    diam <- diam/10
+    diam <- diam/8   #Changed
   }
-  vol <- len * (diam/2) ^ 2 * pi
+  vol <- len * (diam/2) ^ 3 * pi #Changed to cubed
   return(vol)
 }
