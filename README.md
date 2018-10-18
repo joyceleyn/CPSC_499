@@ -1,13 +1,11 @@
 # CPSC_499
-Example_repository
+**STEMVOLUME**
 
-this is a markdown format
-put text in *italics*
+This is a function to calculate the volume of stems based on the length and diameter
 
-put test in **bold**
 
-*bullet1
+this function also comverts mm to cm
 
-*bullet2
 
-Add an edit from the browser though not recommended
+
+
