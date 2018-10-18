@@ -1,3 +1,4 @@
+## Stem volume function
 stemvol <- function(len, diam,
                     len.units = "cm", diam.units = "mm"){
   if(len.units == "mm"){
