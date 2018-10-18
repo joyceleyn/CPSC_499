@@ -7,6 +7,6 @@ stemvol <- function(len, diam,
   if(diam.units == "mm"){
     diam <- diam/10
   }
-  vol <- len * (diam/2) ^ 2 * pi
+  vol <- len * (diam/2) ^ 2 * 3.14
   return(vol)
 }
