@@ -9,7 +9,7 @@ this function also comverts mm to cm
 
 usage
 
-```{r }
+```{r echo=TRUE}
 stemvol(100,50,diam.units = "mm")
 ```
 
